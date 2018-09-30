@@ -1,0 +1,7 @@
+geoip2==2.9.0
+dnspython==1.15.0
+pythonwhois==2.4.3
+Werkzeug==0.14.1
+Flask==0.12.3
+requests==2.11.1
+gunicorn
